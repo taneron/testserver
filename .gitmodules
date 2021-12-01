@@ -1,0 +1,3 @@
+[submodule "testconfig"]
+	path = testconfig
+	url = https://github.com/tanerqy/testconfig
